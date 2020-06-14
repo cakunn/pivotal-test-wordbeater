@@ -1,5 +1,5 @@
-# Word Beater React Game
-visit live demo at <https://beattheword.netlify.com>
+# Word Beater React Game - Copy for testing only
+Source: https://github.com/jgudo/react-word-beater
 
 ### Install Dependencies
 ```sh
